@@ -38,6 +38,11 @@ Features:
 - Pokémon Blue Celadon Game Corner prizes.
 - Updated evolve_trade.asm so Haunter evolves when in-game traded.
 
-It builds the following ROMs:
+Apply IPS patch to a clean Pokémon: Red Version (UE).gb
+
+
+
+
+It repository builds the following ROMs:
 
 - Pokemon Red (UE) [S][!].gb except it is generating for Green because I was lazy. Blah.
