@@ -9,10 +9,10 @@ InGameTrade_CheckForTradeEvo:
 	cp 'G' ; GRAVELER
 	jr z, .nameMatched
 	; "SPECTRE" (HAUNTER)
-	cp 'S'
+	cp 'H'
 	ret nz
 	ld a, [wInGameTradeReceiveMonName + 1]
-	cp 'P'
+	cp 'A'
 	ret nz
 .nameMatched
 	ld a, [wPartyCount]
