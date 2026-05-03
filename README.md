@@ -38,7 +38,7 @@ Features:
 - Pokémon Blue Celadon Game Corner prizes.
 - Updated evolve_trade.asm so Haunter evolves when in-game traded.
 
-Apply IPS patch to a clean Pokémon: Red Version (UE).gb
+Apply IPS patch to a clean Pokémon: Red Version (UE) [S][!].gb
 
 
 <br><br><br>
