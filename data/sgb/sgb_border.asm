@@ -1,6 +1,6 @@
 BorderPalettes:
 IF DEF(_RED)
-	INCBIN "gfx/sgb/red_border.tilemap"
+	INCBIN "gfx/sgb/green_border.tilemap"
 ENDC
 IF DEF(_BLUE)
 	INCBIN "gfx/sgb/blue_border.tilemap"
@@ -9,10 +9,7 @@ ENDC
 	ds $100
 
 IF DEF(_RED)
-	RGB 30,29,29 ; PAL_SGB1
-	RGB 25,22,25
-	RGB 25,17,21
-	RGB 24,14,12
+	RGB 30,29,29, 25,31,18, 18,25,12, 12,20,09 ; PAL_SGB1
 ENDC
 IF DEF(_BLUE)
 	RGB 0,0,0 ; PAL_SGB1 (the first color is not defined, but if used, turns up as 30,29,29... o_O)
@@ -24,10 +21,7 @@ ENDC
 	ds $18
 
 IF DEF(_RED)
-	RGB 30,29,29 ; PAL_SGB2
-	RGB 22,31,16
-	RGB 27,20,6
-	RGB 15,15,15
+	RGB 30,29,29, 16,19,29, 25,20,07, 13,15,16 ; PAL_SGB2
 ENDC
 IF DEF(_BLUE)
 	RGB 30,29,29 ; PAL_SGB2
@@ -39,10 +33,7 @@ ENDC
 	ds $18
 
 IF DEF(_RED)
-	RGB 30,29,29 ; PAL_SGB3
-	RGB 31,31,17
-	RGB 18,21,29
-	RGB 15,15,15
+	RGB 30,29,29, 30,27,04, 29,18,20, 13,15,16 ; PAL_SGB3
 ENDC
 IF DEF(_BLUE)
 	RGB 30,29,29 ; PAL_SGB3
@@ -55,7 +46,7 @@ ENDC
 
 SGBBorderGraphics:
 IF DEF(_RED)
-	INCBIN "gfx/sgb/red_border.2bpp"
+	INCBIN "gfx/sgb/green_border.2bpp"
 ENDC
 IF DEF(_BLUE)
 	INCBIN "gfx/sgb/blue_border.2bpp"

@@ -69,7 +69,7 @@ CreditsTextPointers:
 
 CredVersion:
 IF DEF(_RED)
-	db -8, "RED VERSION STAFF@"
+	db -9, "GREEN VERSION STAFF@"
 ENDC
 IF DEF(_BLUE)
 	db -8, "BLUE VERSION STAFF@"

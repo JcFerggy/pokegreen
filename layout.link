@@ -88,6 +88,7 @@ ROMX $E
 ROMX $F
 	"Battle Core"
 ROMX $10
+	"Pics 6"
 	"bank10"
 ROMX $11
 	"Maps 5"

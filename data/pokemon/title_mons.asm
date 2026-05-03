@@ -1,12 +1,12 @@
 TitleMons:
 ; mons on the title screen are randomly chosen from here
 IF DEF(_RED)
+	db STARTER3
 	db STARTER1
 	db STARTER2
-	db STARTER3
-	db WEEDLE
-	db NIDORAN_M
-	db SCYTHER
+	db CATERPIE
+	db NIDORAN_F
+	db PINSIR
 	db PIKACHU
 	db CLEFAIRY
 	db RHYDON
