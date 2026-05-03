@@ -1,3 +1,9 @@
+![alt text](https://i.imgur.com/CVQkZ67.png "Pokemon Green Version")![alt text](https://i.imgur.com/8cRa3mG.png "Player Name Entry")![alt text](https://i.imgur.com/EqsdZYM.png "Rival Name Entry")
+![alt text](https://i.imgur.com/4XDzUKm.png "Pallet Town Square Windows")![alt text](https://i.imgur.com/R6TM0ZZ.png "Red/Green Battle Sprites")![alt text](https://i.imgur.com/TeGMFJw.png "Viridian City 'POKE' and 'SHOP' signs")
+![alt text](https://i.imgur.com/8IoIAaO.png "Pokemon Blue Trades")![alt text](https://i.imgur.com/93XhIQX.png "What? Haunter is evolving!")![alt text](https://i.imgur.com/NyBRArA.png "Exclusive Safari Pokemon")
+![alt text](https://i.imgur.com/P3zTHgP.png "Green Slot Machines")![alt text](https://i.imgur.com/hGMWkCY.png "Exclusive Seafoam Encounter")![alt text](https://i.imgur.com/medtWjJ.png "Cerulean Cave's Red/Green Layout")
+
+
 This is a disassembly of 'Pokémon Green', modified from Pret's Red and Blue disassembly.
 
 This project is what I imagined a hypothetical ‘Pokémon Green’ would look like as a 90s child when I first read about it in gaming magazines; combining the aspects of both Japanese Pokémon Green & Blue that got left on the cutting room floor in the making of the international releases of Pokémon Red & Blue. It’s namesake and visuals come from Japanese Green, along with the Pokémon sprites, overworld tileset, slot machine graphics, and layout for Cerulean Cave.
@@ -25,7 +31,7 @@ Features:
 - Pokémon Green title screen & rotating title screen Pokémon.
 - Pokémon Red & Green front facing Pokémon battle sprites.
 - Pokémon Green Slot Machine Graphics.
-- Pokémon Red & Green Cerulean Cave layout.
+- Pokémon Red & Green Cerulean Cave layout (Also seen in Fire Red/Leaf Green).​
 - Pokémon Blue localized default player/rival names.
 - Pokémon Blue wild encounter/safari tables.
 - Pokémon Blue in-game trades with localized names.
