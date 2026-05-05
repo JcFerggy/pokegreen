@@ -41,7 +41,7 @@ Features:
 - Pokémon Red & Green overworld graphics/tileset.
 - Pokémon Red & Green front facing Pokémon battle sprites.
 - Pokémon Red & Green Pokédex entries (Sourced from Fire Red).
-- Pokémon Green Slot Machine Graphics.
+- Pokémon Green Slot Machine graphics.
 - Pokémon Red & Green Cerulean Cave layout (Also seen in Fire Red/Leaf Green).​
 - Pokémon Blue localized default player/rival names.
 - Pokémon Blue wild encounter/safari tables.
