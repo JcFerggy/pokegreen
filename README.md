@@ -38,6 +38,7 @@ GameShark codes should work from Red Version, but due to re-importing the Jp Red
 Features:
 - Pokémon Green Super GameBoy border and palette.
 - Pokémon Green title screen & rotating title screen Pokémon.
+- Pokémon Red & Green overworld graphics/tileset.
 - Pokémon Red & Green front facing Pokémon battle sprites.
 - Pokémon Red & Green Pokédex entries (Sourced from Fire Red).
 - Pokémon Green Slot Machine Graphics.
