@@ -27,7 +27,13 @@ Here are the in-game trade nicknames that were localized:
 - Pokémon Lab: Seel for Slowpoke オスカル / Oscar > Oscar
 - Pokémon Lab: Growlithe for Krabby どうらく / Dōraku > Rascal
 
-That's it. No new features, no quality of life improvements. Just good ol' 1998 Gen 1 Pokémon. GameShark codes should work from Red Version, but due to re-importing the Jp Red/Green Pokémon sprites, I had to move sprite pics around in the disassembly layout.link file, so I made a Pic 6 section and put it before Bank 10. No idea if this is a good solution, but the compiler stopped yelling at me. Just double check when trying any codes.
+That's it. No new features, no quality of life improvements. Just good ol' 1998 Gen 1 Pokémon. Even trading and battling between the other three versions works via link-cable, along with full Pokémon Stadium support. 
+
+![alt text](https://i.imgur.com/3dDcF2c.png "Pokémon Stadium")
+
+GameShark codes should work from Red Version, but due to re-importing the Jp Red/Green Pokémon sprites, I had to move sprite pics around in the disassembly layout.link file, so I made a Pic 6 section and put it before Bank 10. No idea if this is a good solution, but the compiler stopped yelling at me. Just double check when trying any codes.
+
+![alt text](https://i.imgur.com/HKjFnzU.png "Pokémon Stadium 2")
 
 Features:
 - Pokémon Green Super GameBoy border and palette.
