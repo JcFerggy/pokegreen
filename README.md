@@ -6,7 +6,7 @@
 
 This is a disassembly of 'Pokémon Green', modified from Pret's Red and Blue disassembly.
 
-This project is what I imagined a hypothetical ‘Pokémon Green’ would look like as a 90s child when I first read about it in gaming magazines; combining the aspects of both Japanese Pokémon Green & Blue that got left on the cutting room floor in the making of the international releases of Pokémon Red & Blue. It’s namesake and visuals come from Japanese Green, along with the Pokémon sprites, overworld tileset, slot machine graphics, and layout for Cerulean Cave.
+This project is what I imagined a hypothetical ‘Pokémon Green’ would look like as a 90s child when I first read about it in gaming magazines; combining the aspects of both Japanese Pokémon Green & Blue that got left on the cutting room floor in the making of the international releases of Pokémon Red & Blue. It’s namesake and visuals come from Japanese Green, along with the Pokémon sprites, overworld tileset, slot machine graphics, and layout for Cerulean Cave. Pokédex entries are sourced from Fire Red (which originated from Red/Green), then edited to fit within character limitations.
 
 (Did YOU Know? Pokémon Green had it’s own exclusive Super GameBoy palette? It seems Jp Blue was built off of Red, and then they forgot about it when making Red & Blue, just reusing the Red one twice. Every town across Kanto had their colors slightly shifted from what was released in the West. Cinnabar Island almost got off clean, except the background shade of white has been changed across the board to be more green.)
 
@@ -30,6 +30,7 @@ Features:
 - Pokémon Green Super GameBoy border and palette.
 - Pokémon Green title screen & rotating title screen Pokémon.
 - Pokémon Red & Green front facing Pokémon battle sprites.
+- Pokémon Red & Green Pokédex entries (Sourced from Fire Red).
 - Pokémon Green Slot Machine Graphics.
 - Pokémon Red & Green Cerulean Cave layout (Also seen in Fire Red/Leaf Green).​
 - Pokémon Blue localized default player/rival names.
