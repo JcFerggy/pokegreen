@@ -33,7 +33,7 @@ That's it. No new features, no quality of life improvements. Just good ol' 1998 
 
 ![alt text](https://i.imgur.com/3dDcF2c.png "Pokémon Stadium")
 
-GameShark codes should work from Red Version, but due to re-importing the Jp Red/Green Pokémon sprites, I had to move sprite pics around in the disassembly layout.link file, so I made a Pic 6 section and put it before Bank 10. No idea if this is a good solution, but the compiler stopped yelling at me. Just double check when trying any codes.
+GameShark codes should work from Red Version, but due to re-importing the Jp Red/Green Pokémon sprites, things had to be moved around. Following SwimmingLink's 'picture system tutorial' the front facing sprites now load with no issues. Just save before trying any cheat codes.
 
 ![alt text](https://i.imgur.com/HKjFnzU.png "Pokémon Stadium 2")
 
