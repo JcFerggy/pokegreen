@@ -50,7 +50,6 @@ Features:
 
 Apply IPS patch to a clean Pokémon: Red Version (UE) [S][!].gb
 
-
-<br><br><br>
+<hr>
 
 This repository builds the following ROM: - Pokemon Red (UE) [S][!].gb except it is generating for Green because I was lazy. Blah.
