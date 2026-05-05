@@ -10,6 +10,9 @@ This project is what I imagined a hypothetical ‘Pokémon Green’ would look l
 
 (Did YOU Know? Pokémon Green had it’s own exclusive Super GameBoy palette? It seems Jp Blue was built off of Red, and then they forgot about it when making Red & Blue, just reusing the Red one twice. Every town across Kanto had their colors slightly shifted from what was released in the West. Cinnabar Island almost got off clean, except the background shade of white has been changed across the board to be more green.)
 
+![alt text](https://i.imgur.com/yTR46gD.png "Pokémon Red SBG")![alt text](https://i.imgur.com/bd02nsF.png "Pokémon Green SBG")![alt text](https://i.imgur.com/4ZsB9u8.png "Pokémon Blue SBG")
+![alt text](https://i.imgur.com/MeeqC02.png "Pokémon Red GBC")![alt text](https://i.imgur.com/C2OQdWg.png "Pokémon Green GBC")![alt text](https://i.imgur.com/se9Bi7u.png "Pokémon Blue GBC")
+
 Then from Japanese Blue comes the wild encounter tables, along with the in-game trades and game corner prizes. This also meant localizing the default names and nicknames for in-game traded Pokémon. For the player and rival names; apart from the primary colors; the options were ツネカズ (Tsunekaz) and ジャン (Jean) for the player, and ヒロシ (Hiroshi) for the rival. Thankfully no work was needed, as the first two already have associated Jp to Eng names from Fire Red/Leaf Green in ‘Kaz’ and ‘Janne’. Meanwhile Hiroshi is a reference to ‘Ritchie’, a challenger from the anime’s first Pokemon League.
 
 Here are the in-game trade nicknames that were localized:
