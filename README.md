@@ -72,7 +72,7 @@ For those who must have the Title Screen trainer sprite and position of Jp Red &
 
 <b>Q:</b> What about the changing the textbox Pokéball corners to it Jp Red & Green's rounded design?
 
-<b>A:</b> Echoing what I just said, I'm unsure Nintendo would have changed these either. I kept the text boxes as I felt it was something unique to Gen 1 Pokémon, as the Pokéball frame is not an option in the Gen 2 games.
+<b>A:</b> Echoing what I said above, I'm unsure Nintendo would have changed these either. I kept the text boxes as I felt it was something unique to Gen 1 Pokémon, as the Pokéball frame is not an option in the Gen 2 games.
 
 ![alt text](https://i.imgur.com/y3m8UWe.png "Pocket Monsters Red Menus SBG")![alt text](https://i.imgur.com/K1sVexq.png "Pocket Monsters Green Menus SBG")![alt text](https://i.imgur.com/KJ4dReG.png "Pocket Monsters Blue Menus SBG")![alt text](https://i.imgur.com/G7CTWa8.png "Pocket Monsters Yellow Menus SBG")<br>
 ![alt text](https://i.imgur.com/8Ok0nxq.png "Pokémon Red Menus SBG")![alt text](https://i.imgur.com/NIxK0F8.png "Pokémon Green Menus SBG")![alt text](https://i.imgur.com/frTfslX.png "Pokémon Blue Menus SBG")![alt text](https://i.imgur.com/nX9Z7km.png "Pokémon Yellow Menus SBG")
