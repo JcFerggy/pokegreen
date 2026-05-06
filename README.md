@@ -83,6 +83,10 @@ For those who must have the classic rounded text boxes of Jp Red & Green, I have
 
 For those who want both optional patches, I have included a third optional patch combines the above two. Apply after first applying the Pokémon Green patch.
 
+<b>Q:</b> What about the copyright text?
+
+<b>A:</b> No. I am leaving those as-is, as a hypothetical Green release would have kept them the same, (assuming it was released in the same year). No, I will not be adding the current year's date either, or anything indicating that this release happened anywhere outside of 1998.
+
 <hr>
 
 This repository builds the following ROM: - Pokemon Red (UE) [S][!].gb except it is generating for Green because I was lazy. Blah.
