@@ -98,7 +98,8 @@ DisplayTitleScreen:
 
 ; put a pokeball in the player's hand
 	ld hl, wShadowOAMSprite10
-	ld a, $74
+	ld a, $74 ;Red
+	;ld a, $70 ;Green
 	ld [hl], a
 
 ; place tiles for title screen copyright
@@ -328,7 +329,8 @@ DrawPlayerCharacter:
 	xor a
 	ld [wPlayerCharacterOAMTile], a
 	ld hl, wShadowOAM
-	lb de, $60, $5a
+	lb de, $60, $5a ;Red
+	;lb de, $60, $30 ; Green
 	ld b, 7
 .loop
 	push de
@@ -364,7 +366,8 @@ ClearBothBGMaps:
 LoadTitleMonSprite:
 	ld [wCurPartySpecies], a
 	ld [wCurSpecies], a
-	hlcoord 5, 10
+	hlcoord 5, 10 ;Red
+	;hlcoord 9, 10 ;Green
 	call GetMonHeader
 	jp LoadFrontSpriteByMonIndex
 
