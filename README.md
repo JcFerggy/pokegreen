@@ -10,8 +10,8 @@ This project is what I imagined a hypothetical ‘Pokémon Green’ would look l
 
 (Did YOU Know? Pokémon Green had it’s own exclusive Super GameBoy palette? It seems Jp Blue was built off of Red, and then they forgot about it when making Red & Blue, just reusing the Red one twice. Every town across Kanto had their colors slightly shifted from what was released in the West. Cinnabar Island almost got off clean, except the background shade of white has been changed across the board to be more green.)
 
-![alt text](https://i.imgur.com/yTR46gD.png "Pokémon Red SBG")![alt text](https://i.imgur.com/bd02nsF.png "Pokémon Green SBG")![alt text](https://i.imgur.com/4ZsB9u8.png "Pokémon Blue SBG")<br>
-![alt text](https://i.imgur.com/MeeqC02.png "Pokémon Red GBC")![alt text](https://i.imgur.com/C2OQdWg.png "Pokémon Green GBC")![alt text](https://i.imgur.com/se9Bi7u.png "Pokémon Blue GBC")
+![alt text](https://i.imgur.com/yTR46gD.png "Pokémon Red SBG")![alt text](https://i.imgur.com/bd02nsF.png "Pokémon Green SBG")![alt text](https://i.imgur.com/4ZsB9u8.png "Pokémon Blue SBG")![alt text](https://i.imgur.com/hv66YTS.png "Pokémon Yellow SBG")<br>
+![alt text](https://i.imgur.com/MeeqC02.png "Pokémon Red GBC")![alt text](https://i.imgur.com/C2OQdWg.png "Pokémon Green GBC")![alt text](https://i.imgur.com/se9Bi7u.png "Pokémon Blue GBC")![alt text](https://i.imgur.com/6w40YkU.png "Pokémon Yellow SBG")
 
 Then from Japanese Blue comes the wild encounter tables, along with the in-game trades and game corner prizes. This also meant localizing the default names and nicknames for in-game traded Pokémon. For the player and rival names; apart from the primary colors; the options were ツネカズ (Tsunekaz) and ジャン (Jean) for the player, and ヒロシ (Hiroshi) for the rival. Thankfully no work was needed, as the first two already have associated Jp to Eng names from Fire Red/Leaf Green in ‘Kaz’ and ‘Janne’. Meanwhile Hiroshi is a reference to ‘Ritchie’, a challenger from the anime’s first Pokemon League.
 
@@ -35,7 +35,7 @@ GameShark codes should work from Red Version, but due to re-importing the Jp Red
 
 ![alt text](https://i.imgur.com/HKjFnzU.png "Pokémon Stadium 2")
 
-Features:
+<b>Features:</b>
 - Pokémon Green Super GameBoy border and palette.
 - Pokémon Green title screen & rotating title screen Pokémon.
 - Pokémon Red & Green overworld graphics/tileset.
@@ -50,6 +50,36 @@ Features:
 - Updated evolve_trade.asm so Haunter evolves when in-game traded.
 
 Apply IPS patch to a clean Pokémon: Red Version (UE) [S][!].gb
+
+<hr>
+
+<b>Frequently Asked Questions:</b>
+
+<b>Q:</b> Why did you not revert the Title Screen trainer sprite and positioning to those seen in Jp Red & Green? What about the changingtextbox Pokéball corners to it Jp Red & Green's rounded design?
+
+<b>A:</b> I'm unsure Nintendo would have changed this themselves if tasked with making a similar product. With UE Red & Blue being built off Jp Blue, itself built off Jp Red & Green; with Yellow yet on top of that...  I just didn't want to change anything that Nintendo themselves didn't explictly go back and change again; so front facing sprites and Pokédex entries got changed in Jp Blue & Yellow, but the title screen from Jp Blue was rolled into the next release of Red & Blue. Same for the text box staying the same in later releases; so I kept them the same to keep consistancy with the other UE releases.
+
+![alt text](https://i.imgur.com/Lo83X5x.png "Pocket Monsters Red Title Screen SBG")![alt text](https://i.imgur.com/G0I4h5m.png "Pocket Monsters Green Title Screen SBG")![alt text](https://i.imgur.com/6jmAZvt.png "Pocket Monsters Blue Title Screen SBG")![alt text](https://i.imgur.com/UFxOtLJ.png "Pocket Monsters Yellow Title Screen SBG")<br/>
+![alt text](https://i.imgur.com/cs8aLdD.png "Pocket Monsters Red Title Screen GBC")![alt text](https://i.imgur.com/O7iphVF.png "Pocket Monsters Green Title Screen GBC")![alt text](https://i.imgur.com/qkxlN51.png "Pocket Monsters Blue Title Screen GBC")![alt text](https://i.imgur.com/wksPrS7.png "Pocket Monsters Yellow Title Screen GBC")
+
+<i>"Oh but what about the overworld sprites you reverted? Hypocrit much?"</i> 
+
+Okay yea, you got me; but I feel those changes go hand-in-hand with the Super GameBoy's pallet for Green that we never got. At the end of the day my choice to keep or change what is arbitrary. I'm just trying to invision what a NoA localizer would have done in their position. 
+
+For those who must have the Title Screen trainer sprite and position of Jp Red & Green, I have included an optional patch that you must apply after first applying the Pokémon Green patch.
+
+![alt text](https://i.imgur.com/1lQSw93.png "Pokémon Green Original Title Screen SBG")![alt text](https://i.imgur.com/XWaMQPN.png "Pokémon Green Original Title Screen GBC")
+
+<b>Q:</b>What about the changing the textbox Pokéball corners to it Jp Red & Green's rounded design?
+
+<b>A:</b> Echoing what I just said, I'm unsure Nintendo would have changed these either. I kept the text boxes as I felt it was something unique to Gen 1 Pokémon, as the Pokéball frame is not an option in the Gen 2 games.
+
+![alt text](https://i.imgur.com/y3m8UWe.png "Pocket Monsters Red Menus SBG")![alt text](https://i.imgur.com/K1sVexq.png "Pocket Monsters Green Menus SBG")![alt text](https://i.imgur.com/KJ4dReG.png "Pocket Monsters Blue Menus SBG")![alt text](https://i.imgur.com/G7CTWa8.png "Pocket Monsters Yellow Menus SBG")<br>
+![alt text](https://i.imgur.com/8Ok0nxq.png "Pokémon Red Menus SBG")![alt text](https://i.imgur.com/NIxK0F8.png "Pokémon Green Menus SBG")![alt text](https://i.imgur.com/frTfslX.png "Pokémon Blue Menus SBG")![alt text](https://i.imgur.com/nX9Z7km.png "Pokémon Yellow Menus SBG")
+
+For those who must have the classic rounded text boxes of Jp Red & Green, I have included an optional patch that you must apply after first applying the Pokémon Green patch, followed by the optional title screen patch.
+
+![alt text](https://i.imgur.com/fNKRVXn.png "Pokémon Green Rounded Menus SBG 1")![alt text](https://i.imgur.com/zT872Bj.png "Pokémon Green Rounded Menus SBG 2")![alt text](https://i.imgur.com/fRXbF1W.png "Pokémon Green Rounded Menus SBG 3")![alt text](https://i.imgur.com/sC53KrB.png "Pokémon Green Rounded Menus SBG 4")
 
 <hr>
 
