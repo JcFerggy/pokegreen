@@ -55,7 +55,7 @@ Apply IPS patch to a clean Pokémon: Red Version (UE) [S][!].gb
 
 <b>Frequently Asked Questions:</b>
 
-<b>Q:</b> Why did you not revert the Title Screen trainer sprite and positioning to those seen in Jp Red & Green? What about the changingtextbox Pokéball corners to it Jp Red & Green's rounded design?
+<b>Q:</b> Why did you not revert the Title Screen trainer sprite and positioning to those seen in Jp Red & Green?
 
 <b>A:</b> I'm unsure Nintendo would have changed this themselves if tasked with making a similar product. With UE Red & Blue being built off Jp Blue, itself built off Jp Red & Green; with Yellow yet on top of that...  I just didn't want to change anything that Nintendo themselves didn't explictly go back and change again; so front facing sprites and Pokédex entries got changed in Jp Blue & Yellow, but the title screen from Jp Blue was rolled into the next release of Red & Blue. Same for the text box staying the same in later releases; so I kept them the same to keep consistancy with the other UE releases.
 
