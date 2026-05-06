@@ -70,7 +70,7 @@ For those who must have the Title Screen trainer sprite and position of Jp Red &
 
 ![alt text](https://i.imgur.com/1lQSw93.png "Pokémon Green Original Title Screen SBG")![alt text](https://i.imgur.com/XWaMQPN.png "Pokémon Green Original Title Screen GBC")
 
-<b>Q:</b>What about the changing the textbox Pokéball corners to it Jp Red & Green's rounded design?
+<b>Q:</b> What about the changing the textbox Pokéball corners to it Jp Red & Green's rounded design?
 
 <b>A:</b> Echoing what I just said, I'm unsure Nintendo would have changed these either. I kept the text boxes as I felt it was something unique to Gen 1 Pokémon, as the Pokéball frame is not an option in the Gen 2 games.
 
