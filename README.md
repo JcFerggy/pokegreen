@@ -77,9 +77,11 @@ For those who must have the Title Screen trainer sprite and position of Jp Red &
 ![alt text](https://i.imgur.com/y3m8UWe.png "Pocket Monsters Red Menus SBG")![alt text](https://i.imgur.com/K1sVexq.png "Pocket Monsters Green Menus SBG")![alt text](https://i.imgur.com/KJ4dReG.png "Pocket Monsters Blue Menus SBG")![alt text](https://i.imgur.com/G7CTWa8.png "Pocket Monsters Yellow Menus SBG")<br>
 ![alt text](https://i.imgur.com/8Ok0nxq.png "Pokémon Red Menus SBG")![alt text](https://i.imgur.com/NIxK0F8.png "Pokémon Green Menus SBG")![alt text](https://i.imgur.com/frTfslX.png "Pokémon Blue Menus SBG")![alt text](https://i.imgur.com/nX9Z7km.png "Pokémon Yellow Menus SBG")
 
-For those who must have the classic rounded text boxes of Jp Red & Green, I have included an optional patch that you must apply after first applying the Pokémon Green patch, followed by the optional title screen patch.
+For those who must have the classic rounded text boxes of Jp Red & Green, I have included an optional patch that you must apply after first applying the Pokémon Green patch.
 
 ![alt text](https://i.imgur.com/fNKRVXn.png "Pokémon Green Rounded Menus SBG 1")![alt text](https://i.imgur.com/zT872Bj.png "Pokémon Green Rounded Menus SBG 2")![alt text](https://i.imgur.com/fRXbF1W.png "Pokémon Green Rounded Menus SBG 3")![alt text](https://i.imgur.com/sC53KrB.png "Pokémon Green Rounded Menus SBG 4")
+
+For those who want both optional patches, I have included a third optional patch combines the above two. Apply after first applying the Pokémon Green patch.
 
 <hr>
 
