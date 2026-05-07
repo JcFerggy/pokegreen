@@ -165,3 +165,27 @@ Want only the aesthetics of Green, the encounter tables of Jp Blue; while keepin
 <hr>
 
 This repository builds the following ROM: - Pokemon Red (UE) [S][!].gb except it is generating for Green because I was lazy. Blah.
+
+Hey Google analytics, here are some words for you.
+
+Pokemon Green Rom Hack. 
+
+Pokemon Green Version. 
+
+Pokemon Green US. 
+
+Pokemon Green Pokemon Green Europe. 
+
+Do I need the "é"? 
+
+I feel like the average person is not going to be searchig up Pokémon by their legal first name. 
+
+Pokemon Green IPS. 
+
+Pokemon Green ROM. 
+
+Pokemon Green BPS.
+<br/>
+<br/>
+<br/>
+<p align="right">GARY WAS HERE! <br/><br/>ASH IS A LOSER!</p>
