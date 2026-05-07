@@ -86,7 +86,7 @@ For those who must have the Title Screen trainer and Pokémon position of Jp Red
 
 ![alt text](https://i.imgur.com/y3m8UWe.png "Pocket Monsters Red Menus SBG")![alt text](https://i.imgur.com/K1sVexq.png "Pocket Monsters Green Menus SBG")![alt text](https://i.imgur.com/KJ4dReG.png "Pocket Monsters Blue Menus SBG")![alt text](https://i.imgur.com/G7CTWa8.png "Pocket Monsters Yellow Menus SBG")
 
-<b>A:</b> Echoing what I said above, I'm unsure Nintendo would have changed these either. I kept the text boxes designs as I felt it was something unique to Gen 1 Pokémon; since the Pokéball frame was not an option in the Gen 2 games, I wanted it to stay.
+<b>A:</b> Echoing what I said above, I'm unsure Nintendo would have changed these either. I kept the text boxes designs as I felt it was something unique to Gen 1 Pokémon; since the Pokéball frame was not an option in the Gen 2 games, I wanted them to stick around.
 
 ![alt text](https://i.imgur.com/8Ok0nxq.png "Pokémon Red Menus SBG")![alt text](https://i.imgur.com/NIxK0F8.png "Pokémon Green Menus SBG")![alt text](https://i.imgur.com/frTfslX.png "Pokémon Blue Menus SBG")![alt text](https://i.imgur.com/nX9Z7km.png "Pokémon Yellow Menus SBG")
 
