@@ -1,4 +1,4 @@
-SuperPalettes:
+SuperPalettes: ;
 ; entries correspond to PAL_* constants
 	table_width 2 * 4
 	RGB 30,31,29, 21,28,11, 20,26,31, 03,02,02 ; PAL_ROUTE
