@@ -140,7 +140,7 @@ For those who want the Pokémon sprites of Jp Blue/ UE Red & Green, use a patch 
 
 Several patches have been made to try and account for all permutations and options that players might want.
 
-Want to experience all the content and visual identity exclusive to the Japanese releases? Use patch "pokegreen1.2.1-TitleScreen-RoundText-Signage" for the most authentic Jp Green without learning another language. 
+Want to experience all the content and visual identity exclusive to the Japanese releases? Use patch "pokegreen1.2.1-TitleScreen-RoundText-Signage" for the most authentic Jp Green experience without needing to learn another language. 
 
 ![alt text](https://i.imgur.com/1lQSw93.png "Pokémon Green Original Title Screen SBG")![alt text](https://i.imgur.com/0mAVwx0.png "Pokémon Green Pallet Town SBG")![alt text](https://i.imgur.com/sC53KrB.png "Pokémon Green Rounded Menus Battle SBG")![alt text](https://i.imgur.com/BKev02N.png "Pokémon Green De-localized Signs SBG")
 
