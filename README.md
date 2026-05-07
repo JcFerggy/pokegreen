@@ -93,7 +93,7 @@ For those who must have the classic rounded text boxes of Jp Red & Green, use a 
 
 <h3>Pokémon Center & Poké Mart Signage</h3>
 
-<b>Q:</b> What about the signs outside of the Pokémon Centers and Poké Marts? You have them still saying POKé and MART, when in Jp Red & Green they said POKE and SHOP.
+<b>Q:</b> What about the signage outside of the Pokémon Centers and Poké Marts? You have them still saying POKé and MART, when in Jp Red & Green they said POKE and SHOP.
 
 ![alt text](https://i.imgur.com/BVvjWEr.png "Pocket Monsters Red Signs SBG")![alt text](https://i.imgur.com/IJuJ6ST.png "Pocket Monsters Green Signs SBG")![alt text](https://i.imgur.com/HjfVAlk.png "Pocket Monsters Blue Signs SBG")
 
