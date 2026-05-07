@@ -174,7 +174,9 @@ Pokemon Green Version.
 
 Pokemon Green US. 
 
-Pokemon Green Pokemon Green Europe. 
+Pokemon Green Mod.
+
+Pokemon Green Europe. 
 
 Do I need the "é"? 
 
