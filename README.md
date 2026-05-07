@@ -130,7 +130,7 @@ For those who want the overworld sprites of Jp Blue/ UE Red & Green, use a patch
 
 <b>Q:</b> What if I dislike the Pokémon sprites from Jp Red & Green?
 
-<b>A:</b> Totally understandable. Many have called them silly or derpy; and they may have been changed for a reason. Plus, out of all graphics in the game, most Pokémon sprites are the ones players get most attached to.
+<b>A:</b> Totally understandable. Many have called them silly or derpy; and they may have been changed for a reason. Plus, out of all graphics in the game, Pokémon sprites are the ones players get most attached to.
 
 For those who want the Pokémon sprites of Jp Blue/ UE Red & Green, use a patch with the "-PokéSprites" tag.
 
