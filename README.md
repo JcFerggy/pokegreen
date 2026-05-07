@@ -51,41 +51,109 @@ GameShark codes should work from Red Version, but due to re-importing the Jp Red
 
 Apply IPS patch to a clean Pokémon: Red Version (UE) [S][!].gb
 
-<hr>
 
-<b>Frequently Asked Questions:</b>
+
+<h2>Release Options</h2>
+
+<h3>Core Release</h3>
+
+This is what I, "JcFerggy", personally believe to be what most casual fans would want when thinking of a US/European release of Pokémon Green. It walks the line of restoring content never seen outside of Japan, while respecting the decisions made by the Nintendo of America localization team when making Red & Blue.
+
+![alt text](https://i.imgur.com/bd02nsF.png "Pokémon Green Title Screen SBG")![alt text](https://i.imgur.com/0mAVwx0.png "Pokémon Green Pallet Town SBG")![alt text](https://i.imgur.com/NIxK0F8.png "Pokémon Green Menus SBG")![alt text](https://i.imgur.com/T6ARcuS.png "Pokémon Green Signs SBG")
+
+<h3>Modified Title Screen</h3>
 
 <b>Q:</b> Why did you not revert the Title Screen trainer sprite and positioning to those seen in Jp Red & Green?
 
-<b>A:</b> I'm unsure Nintendo would have changed this themselves if tasked with making a similar product. With UE Red & Blue being built off Jp Blue, itself built off Jp Red & Green; with Yellow yet on top of that...  I just didn't want to change anything that Nintendo themselves didn't explictly go back and change again; so front facing sprites and Pokédex entries got changed in Jp Blue & Yellow, while the title screen from Jp Blue was rolled into the next release of Red & Blue.
+![alt text](https://i.imgur.com/Lo83X5x.png "Pocket Monsters Red Title Screen SBG")![alt text](https://i.imgur.com/G0I4h5m.png "Pocket Monsters Green Title Screen SBG")![alt text](https://i.imgur.com/6jmAZvt.png "Pocket Monsters Blue Title Screen SBG")<br/>
+![alt text](https://i.imgur.com/cs8aLdD.png "Pocket Monsters Red Title Screen GBC")![alt text](https://i.imgur.com/O7iphVF.png "Pocket Monsters Green Title Screen GBC")![alt text](https://i.imgur.com/qkxlN51.png "Pocket Monsters Blue Title Screen GBC")
 
-![alt text](https://i.imgur.com/Lo83X5x.png "Pocket Monsters Red Title Screen SBG")![alt text](https://i.imgur.com/G0I4h5m.png "Pocket Monsters Green Title Screen SBG")![alt text](https://i.imgur.com/6jmAZvt.png "Pocket Monsters Blue Title Screen SBG")![alt text](https://i.imgur.com/UFxOtLJ.png "Pocket Monsters Yellow Title Screen SBG")<br/>
-![alt text](https://i.imgur.com/cs8aLdD.png "Pocket Monsters Red Title Screen GBC")![alt text](https://i.imgur.com/O7iphVF.png "Pocket Monsters Green Title Screen GBC")![alt text](https://i.imgur.com/qkxlN51.png "Pocket Monsters Blue Title Screen GBC")![alt text](https://i.imgur.com/wksPrS7.png "Pocket Monsters Yellow Title Screen GBC")
+<b>A:</b> I'm unsure Nintendo would have changed this themselves if tasked with making a similar product. With UE Red & Blue being built off Jp Blue, itself built off Jp Red & Green; with Yellow yet on top of that...  I just didn't want to change anything that Nintendo themselves didn't explictly go back and change again; so front facing sprites and Pokédex entries got changed in Jp Blue & Yellow, while the title screen from Jp Blue was rolled into the next release of UE Red & Blue.
 
-<i>"Oh but what about the overworld sprites you reverted? Hypocrit much?"</i> 
+<i>"Oh but what about the overworld sprites you reverted to Jp Red & Green? Hypocrit much?"</i> 
 
-Okay yea, you got me; but I feel those changes go hand-in-hand with the Super GameBoy's pallet for Green that we never got. At the end of the day my choice to keep or change what is arbitrary. I'm just trying to invision what a NoA localizer would have done in their position. 
+Okay yea, you got me; but I feel those changes go hand-in-hand with the Super GameBoy's pallet for Green that we never got. Plus, some of the tileset from Jp Red & Green was reused in Yellow. At the end of the day, my choice to keep or change what is arbitrary. I'm just trying to invision what a NoA localizer would have done in their position. 
 
-For those who must have the Title Screen trainer sprite and position of Jp Red & Green, I have included an optional patch that you must apply after first applying the Pokémon Green patch.
+For those who must have the Title Screen trainer and Pokémon position of Jp Red & Green, use a patch with the "-TitleScreen" tag.
 
 ![alt text](https://i.imgur.com/1lQSw93.png "Pokémon Green Original Title Screen SBG")![alt text](https://i.imgur.com/XWaMQPN.png "Pokémon Green Original Title Screen GBC")
 
-<b>Q:</b> What about the changing the textbox Pokéball corners to it Jp Red & Green's rounded design?
+<h3>Rounded Text Boxes</h3>
 
-<b>A:</b> Echoing what I said above, I'm unsure Nintendo would have changed these either. I kept the text boxes as I felt it was something unique to Gen 1 Pokémon, since the Pokéball frame was not an option in the Gen 2 games.
+<b>Q:</b> What about the changing the textbox Pokéball corners to its Jp Red & Green's rounded design? Why was that left untouched?
 
 ![alt text](https://i.imgur.com/y3m8UWe.png "Pocket Monsters Red Menus SBG")![alt text](https://i.imgur.com/K1sVexq.png "Pocket Monsters Green Menus SBG")![alt text](https://i.imgur.com/KJ4dReG.png "Pocket Monsters Blue Menus SBG")![alt text](https://i.imgur.com/G7CTWa8.png "Pocket Monsters Yellow Menus SBG")<br>
 ![alt text](https://i.imgur.com/8Ok0nxq.png "Pokémon Red Menus SBG")![alt text](https://i.imgur.com/NIxK0F8.png "Pokémon Green Menus SBG")![alt text](https://i.imgur.com/frTfslX.png "Pokémon Blue Menus SBG")![alt text](https://i.imgur.com/nX9Z7km.png "Pokémon Yellow Menus SBG")
 
-For those who must have the classic rounded text boxes of Jp Red & Green, I have included an optional patch that you must apply after first applying the Pokémon Green patch.
+<b>A:</b> Echoing what I said above, I'm unsure Nintendo would have changed these either. I kept the text boxes designs as I felt it was something unique to Gen 1 Pokémon; since the Pokéball frame was not an option in the Gen 2 games, I wanted it to stay.
+
+For those who must have the classic rounded text boxes of Jp Red & Green, use a patch with the "-RoundText" tag.
 
 ![alt text](https://i.imgur.com/fNKRVXn.png "Pokémon Green Rounded Menus SBG 1")![alt text](https://i.imgur.com/zT872Bj.png "Pokémon Green Rounded Menus SBG 2")![alt text](https://i.imgur.com/fRXbF1W.png "Pokémon Green Rounded Menus SBG 3")![alt text](https://i.imgur.com/sC53KrB.png "Pokémon Green Rounded Menus SBG 4")
 
-For those who want both optional patches, I have included a third optional patch combines the above two. Apply after first applying the Pokémon Green patch.
+<h3>Pokemon Center & Poke Mart Signage</h3>
+
+<b>Q:</b> What about the signs outside of the Pokemon Centers and Poke Marts? You have them still saying POKé and MART, when in Jp Red & Green they said POKE and SHOP.
+
+![alt text](https://i.imgur.com/BVvjWEr.png "Pocket Monsters Red Signs SBG")![alt text](https://i.imgur.com/IJuJ6ST.png "Pocket Monsters Green Signs SBG")![alt text](https://i.imgur.com/HjfVAlk.png "Pocket Monsters Blue Signs SBG")
+
+<b>A:</b> I felt like this change falls under localization and would not have been changed by NoA, especially since other regions have similarly translated the sign. [See Here](https://tcrf.net/Pok%C3%A9mon_Red_and_Blue/Version_Differences#Overworld_Tileset) from The Cutting Room Floor.
+
+The timeline on this is interesting. Jp Red & Green released February 27, 1996. Then Jp Blue was first made available in December 1996 nearly 9 months later. Lastly Jp Yellow was released September 12, 1998, a two an a half years after Jp Red & Green, and 18 days after the US release of Red & Blue on September 28, 1998. Yet during this development time, only did Jp Blue alter the signs by adding shading above the text, which then was used as a basis for all localized regions and releases to follow; an alteration which did not make it into Jp Yellow.
+
+![alt text](https://i.imgur.com/2UNWRdz.png "Pocket Monsters Yellow Signs SBG")
+
+You can also see both versions of Yellow reusing the grass, amongst other sprites from Jp Red & Green; yet they also have the animated flowers from Jp Blue. The devs of Yellow continued to edit and adjust many sprites and graphics away from either Red, Green or Blue; yet NoA still made sure to localize both Signs, adding the shading above the text that was missing in Jp Yellow. It's wildly agreed that NoA got the source code for Jp Blue to make UE Red & Blue, but between that I infer Yellow was branched off the original Jp Red & Green instead of Jp Blue, while NoA was caught playing catch-up trying to merge the source codes of their UE Red & Blue source code with Jp's Yellow source code for over a year until October 18, 1999.
+
+![alt text](https://i.imgur.com/1NVHAco.png "Pokémon Red Signs SBG")![alt text](https://i.imgur.com/T6ARcuS.png "Pokémon Green Signs SBG")![alt text](https://i.imgur.com/E3InsOh.png "Pokémon Blue Signs SBG")![alt text](https://i.imgur.com/SWNsRFV.png "Pokémon Yellow Signs SBG")
+
+I felt due to the localization efforts shown, there is likely no way it would have been altered if a UE Green were to have released.
+
+For those who must have the POKE and SHOP signs of Jp Red & Green, use a patch with the "-Signage" tag.
+
+![alt text](https://i.imgur.com/BKev02N.png "Pokémon Green De-localized Signs SBG")
+
+<h3>Overworld Tile Set</h3>
+
+<b>Q:</b> What if I don't like the older overworld tiles from Jp Red & Green?
+
+<b>A:</b> It is completely possible that NoA would not have reverted/modified the overworld tileset to that of Jp Red & Green. It's also valid to prefer one tileset over another, especially if you grew up playing with it, and would like to stay consistant with earlier the earlier UE Red & Blue. 
+
+For those want the overworld sprites of Jp Blue/ UE Red & Green, use a patch with the "-Overworld" tag.
+
+![alt text](https://i.imgur.com/aAW0YE9.png "Pokémon Green Blue Cerulean City SBG")![alt text](https://i.imgur.com/1SKL6EL.png "Pokémon Green Blue Pallet Town SBG")![alt text](https://i.imgur.com/ZoH8xs3.png "Pokémon Green Blue Viridian City SBG")![alt text](https://i.imgur.com/cLLVAbb.png "Pokémon Green Blue Vermilion City SBG")
+
+<h3>Pokémon Sprites</h3>
+
+<b>Q:</b> What if I dislike the Pokémon sprites from Jp Red & Green?
+
+<b>A:</b> Totally understandable. Many have called them silly or derpy; and they may have been changed for a reason. Plus, out of all graphics in the game, most Pokemon sprites are the ones players get most attached to.
+
+For those want the Pokemon sprites of Jp Blue/ UE Red & Green, use a patch with the "-PokeSprites" tag.
+
+![alt text](https://i.imgur.com/Etg2UJw.png "Pokémon Green Blue Pokemon Charmander SBG")![alt text](https://i.imgur.com/lA96DnK.png "Pokémon Green Blue Pokemon Haunter SBG")![alt text](https://i.imgur.com/taMuvCL.png "Pokémon Green Blue Pokemon Lickitung SBG")![alt text](https://i.imgur.com/A5Rtczw.png "Pokémon Green Blue Pokemon Jynx SBG")
+
+<h3>Combining Release Options</h3>
+
+Several patches have been made to try and account for all permutations and options thats players might want.
+
+Want to experience all the content and visual identity exclusive to the Japanese releases? Use patch "pokegreen1.2.1-TitleScreen-RoundText-PokeShop" for the most authentic Jp Green without learning another language. 
+
+![alt text](https://i.imgur.com/1lQSw93.png "Pokémon Green Original Title Screen SBG")![alt text](https://i.imgur.com/0mAVwx0.png "Pokémon Green Pallet Town SBG")![alt text](https://i.imgur.com/sC53KrB.png "Pokémon Green Rounded Menus Battle SBG")![alt text](https://i.imgur.com/BKev02N.png "Pokémon Green De-localized Signs SBG")
+
+Want only the aesthetics of Green, the encounter tables of Jp Blue; while keeping everything in line with UE Red & Blue? Use patch "pokegreen1.2.1-Overworld-PokeSprites" for the most authentic US/European Green. 
+
+![alt text](https://i.imgur.com/bd02nsF.png "Pokémon Green Title Screen SBG")![alt text](https://i.imgur.com/1SKL6EL.png "Pokémon Green Blue Pallet Town SBG")![alt text](https://i.imgur.com/JoQk730.png "Pokémon Green Pokéball Menus Battle")![alt text](https://i.imgur.com/aAW0YE9.png "Pokémon Green Blue Cerulean City SBG")
+
+<h3>Other Frequently Asked Questions:</h3>
 
 <b>Q:</b> What about the copyright text?
 
 <b>A:</b> No. I am leaving those as-is, as a hypothetical Green release would have kept them the same, (assuming it was released in the same year). No, I will not be adding the current year's date either, or anything indicating that this release happened anywhere outside of 1998.
+
+<b>Q:</b> What if I want the encounter tables from Jp Green? Or other similar questions about making Green even closer to it's Japanese release?
+
+<b>A:</b> Now you are looking for an entirely different project, as that was never my intention. I recommend checking out [Vortyne's PureRGB project](https://github.com/Vortyne/pureRGB).
 
 <hr>
 
