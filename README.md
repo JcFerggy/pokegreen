@@ -82,10 +82,11 @@ For those who must have the Title Screen trainer and Pokémon position of Jp Red
 
 <b>Q:</b> What about changing the textbox Pokéball corners to its Jp Red & Green's rounded design? Why was that left untouched?
 
-![alt text](https://i.imgur.com/y3m8UWe.png "Pocket Monsters Red Menus SBG")![alt text](https://i.imgur.com/K1sVexq.png "Pocket Monsters Green Menus SBG")![alt text](https://i.imgur.com/KJ4dReG.png "Pocket Monsters Blue Menus SBG")![alt text](https://i.imgur.com/G7CTWa8.png "Pocket Monsters Yellow Menus SBG")<br>
-![alt text](https://i.imgur.com/8Ok0nxq.png "Pokémon Red Menus SBG")![alt text](https://i.imgur.com/NIxK0F8.png "Pokémon Green Menus SBG")![alt text](https://i.imgur.com/frTfslX.png "Pokémon Blue Menus SBG")![alt text](https://i.imgur.com/nX9Z7km.png "Pokémon Yellow Menus SBG")
+![alt text](https://i.imgur.com/y3m8UWe.png "Pocket Monsters Red Menus SBG")![alt text](https://i.imgur.com/K1sVexq.png "Pocket Monsters Green Menus SBG")![alt text](https://i.imgur.com/KJ4dReG.png "Pocket Monsters Blue Menus SBG")![alt text](https://i.imgur.com/G7CTWa8.png "Pocket Monsters Yellow Menus SBG")
 
 <b>A:</b> Echoing what I said above, I'm unsure Nintendo would have changed these either. I kept the text boxes designs as I felt it was something unique to Gen 1 Pokémon; since the Pokéball frame was not an option in the Gen 2 games, I wanted it to stay.
+
+![alt text](https://i.imgur.com/8Ok0nxq.png "Pokémon Red Menus SBG")![alt text](https://i.imgur.com/NIxK0F8.png "Pokémon Green Menus SBG")![alt text](https://i.imgur.com/frTfslX.png "Pokémon Blue Menus SBG")![alt text](https://i.imgur.com/nX9Z7km.png "Pokémon Yellow Menus SBG")
 
 For those who must have the classic rounded text boxes of Jp Red & Green, use a patch with the "-RoundText" tag.
 
@@ -150,6 +151,10 @@ Want only the aesthetics of Green, the encounter tables of Jp Blue; while keepin
 <b>Q:</b> What about the copyright text?
 
 <b>A:</b> No. I am leaving those as-is, as a hypothetical Green release would have kept them the same, (assuming it was released in the same year). No, I will not be adding the current year's date either, or anything indicating that this release happened anywhere outside of 1998.
+
+<b>Q:</b> What about the Town Map border?
+
+<b>A:</b> No. I don't want to. Who even looks at the town map anyway? <i>(What? Every time they fly?)</i> Nope, still don't want to. Changing it will have it standing out awkwardly against the other version. Plus City names are larger, leaving more characters to cover up what was once border. If Green was to be localized, there would be no way they would have done this; since they removed it to make room text in the first place.
 
 <b>Q:</b> What if I want the encounter tables from Jp Green? Or other similar questions about making Green even closer to its Japanese release?
 
