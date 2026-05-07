@@ -156,7 +156,7 @@ Want only the aesthetics of Green, the encounter tables of Jp Blue; while keepin
 
 <b>Q:</b> What about the Town Map border?
 
-<b>A:</b> No. I don't want to. Who even looks at the town map anyway? <i>(What? Every time they fly?)</i> Nope, still don't want to. Changing it will have it standing out awkwardly against the other version. Plus City names are larger, leaving more characters to cover up what was once border. If Green was to be localized, there would be no way they would have done this; since they removed it to make room text in the first place.
+<b>A:</b> No. I don't want to. Who even looks at the town map anyway? <i>(What? Every time they fly?)</i> Nope, still don't want to. Changing it will have it standing out awkwardly against the other versions. Plus City names are larger, leaving more characters to cover up what was once border. If Green was to be localized, there would be no way they would have done this; since they removed it to make room text in the first place.
 
 <b>Q:</b> What if I want the encounter tables from Jp Green? Or other similar questions about making Green even closer to its Japanese release?
 
