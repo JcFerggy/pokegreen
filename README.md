@@ -59,7 +59,7 @@ Apply IPS patch to a clean Pokémon: Red Version (UE) [S][!].gb
 
 This is what I, <i>personally</i>, believe to be what most casual fans would want when thinking of a US/European release of Pokémon Green. It walks the line of restoring content never seen outside of Japan, while respecting the decisions made by the Nintendo of America localization team when making Red & Blue.
 
-Download and use the patch with the "-Core" tag. Both .ips and .bps files have been provided for your convenience.
+Download and use the patch with the "-Core" tag. Both .ips and .bps files have been provided for your convenience; either will work.
 
 ![alt text](https://i.imgur.com/bd02nsF.png "Pokémon Green Title Screen SBG")![alt text](https://i.imgur.com/0mAVwx0.png "Pokémon Green Pallet Town SBG")![alt text](https://i.imgur.com/NIxK0F8.png "Pokémon Green Menus SBG")![alt text](https://i.imgur.com/T6ARcuS.png "Pokémon Green Signs SBG")
 
