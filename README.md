@@ -187,7 +187,3 @@ Pokemon Green IPS.
 Pokemon Green ROM. 
 
 Pokemon Green BPS.
-<br/>
-<br/>
-<br/>
-<p align="right">GARY WAS HERE! <br/><br/>ASH IS A LOSER!</p>
